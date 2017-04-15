@@ -1,0 +1,35 @@
+<gtalkabout version="1.1">
+<im>
+<using>false</using>
+</im>
+<repository>
+<url>https://github.com/buckdoe/GoBangForWindows.git</url>
+<branch>master</branch>
+<type>git</type>
+<readonly>true</readonly>
+<connecttype>1</connecttype>
+</repository>
+<local>
+<using>true</using>
+<workpath>C:\Users\asus\Documents\Visual Studio 2005\Projects\GoBang\buckdoe\GoBangForWindows</workpath>
+<gtapath>.gta</gtapath>
+</local>
+<revisiondb>
+<using>true</using>
+<path/>
+</revisiondb>
+<mirror>
+<using>false</using>
+<path/>
+</mirror>
+<messagedb>
+<using>true</using>
+<path/>
+<imagepath/>
+</messagedb>
+<recorddb/>
+<filediffdb>
+<using>true</using>
+<path/>
+</filediffdb>
+</gtalkabout>
